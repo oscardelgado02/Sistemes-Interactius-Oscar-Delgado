@@ -1,0 +1,4 @@
+I added to the project a heart that appears if you hit a sheep,
+a sheep hit counter and a fallen sheep counter.
+
+I also put in the Game Over screen a text with my name
